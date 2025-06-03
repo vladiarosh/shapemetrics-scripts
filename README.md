@@ -1,5 +1,5 @@
 # shapemetrics-scripts
-This repository is an addition to the original Shapemetrics script by the Kerosuo Lab.  
+This repository is an addition to the original [Shapemetrics script](https://github.com/kerosuolab/shapemetrics) by the Kerosuo Lab.  
 It includes several modifications and additional scripts to expand analysis capabilities using the parameter matrices derived using the original script.
 
 ## Contents
