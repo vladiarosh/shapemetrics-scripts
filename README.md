@@ -10,7 +10,7 @@ This script includes a few small changes to the 3D reconstruction script:
 
 - Corrected the elongation formula  
 - Added stalk-removal functionality
-- Added variables for lower and upper bounds of cell volume in cubic microns (previously they were in pixels only, which was unhandy to interpet during analysis)
+- Added variables for lower and upper bounds of cell volume in cubic microns (previously these were in voxels only, which was unhandy to interpet during analysis)
 
 ### II. `Mapping_cells_back_subset_of_parameters.m`
 
