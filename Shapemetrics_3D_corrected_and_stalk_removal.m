@@ -472,7 +472,7 @@ end
 end
 %% generate boxplots from multiple samples
 
-root_path = 'C:\Users\frank\Desktop\tails analysis';
+root_path = ''; % insert the file path here
 folders   = {'Ampulla 1', 'Ampulla 2', 'Ampulla 3', 'Asymmetrical ampulla 1', 'Asymmetrical ampulla 2', 'Asymmetrical ampulla 3', 'Bifurcated tip 1', 'Bifurcated tip 2', 'Bifurcated tip 3', 'Initial bud 1', 'Initial bud 2', 'Initial bud 3', 'Initial bud 4'}; % folders here (you need save combined stats_matrix_all for each group, ex. ampullae, bifurcated, etc. into separate folders)
 vol=[];
 name=[]
