@@ -8,7 +8,7 @@ It includes several modifications and additional scripts to expand analysis capa
 
 This script includes a few small changes to the 3D reconstruction script:
 
-- Corrected the ellipticity formula  
+- Corrected the elongation formula  
 - Added stalk-removal functionality
 
 ### II. `Mapping_cells_back_subset_of_parameters.m`
