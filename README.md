@@ -6,7 +6,7 @@ It includes several modifications and additional scripts to expand analysis capa
 
 ### I. `Shapemetrics_3D_corrected_and_stalk_removal.m`
 
-This script includes a few small changes to the 3D reconstruction script:
+This file includes a few small changes to the original 3D reconstruction script:
 
 - Corrected the elongation formula  
 - Added stalk-removal functionality
